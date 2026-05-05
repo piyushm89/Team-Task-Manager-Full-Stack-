@@ -2,7 +2,7 @@
 
 Small full-stack app where a team can spin up projects, hand out tasks, and keep an eye on what's overdue. Built for the Ethara.AI take-home.
 
-Live: _add Railway URL after deploy_
+Live: marvelous-tenderness-production-eeef.up.railway.app
 
 ## Features
 
